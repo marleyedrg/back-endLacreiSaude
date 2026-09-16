@@ -1,7 +1,4 @@
 # Django-crud
-
-# Django Backend
-
 Backend project built with Django and Docker.
 
 ## Requirements
